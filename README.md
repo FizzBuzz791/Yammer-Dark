@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/github/tag/FizzBuzz791/Yammer-Dark.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/FizzBuzz791/Yammer-Dark/stargazers">
-    <img src="https://img.shields.io/github/starts/FizzBuzz791/Yammer-Dark.svg?style=flat" alt="Stars">
+    <img src="https://img.shields.io/github/stars/FizzBuzz791/Yammer-Dark.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/FizzBuzz791/Yammer-Dark/network">
     <img src="https://img.shields.io/github/forks/FizzBuzz791/Yammer-Dark.svg?style=flat" alt="Forks">
